@@ -1,0 +1,53 @@
+Enter Bank Name: 
+SBI
+Enter User ID: 
+465
+Enter User Name: 
+Kondepati Koteswara Rao
+Enter Account Number: 
+4336574889
+Enter Account Type: 
+Zero Svaings Account
+Enter Balance: 
+1400 
+Bank name: SBI
+User ID: 465
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Svaings Account
+Current Balance: 1400.0
+Account Summary: Bank Name: SBI
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Svaings Account
+Current Balance: 1400.0
+Enter Minimum Balance: 
+1000
+Minimum Balance is maintained
+PS C:\Users\kotik\Desktop\Bank-Management-System>  c:; cd 'c:\Users\kotik\Desktop\Bank-Management-System'; & 'C:\Program Files\Java\jdk-21.0.10\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\kotik\AppData\Roaming\Antigravity IDE\User\workspaceStorage\1f18a82fb5e103023e3d73e3f9f195a1\redhat.java\jdt_ws\Bank-Management-System_4f0272b7\bin' 'BankApplication' 
+Enter Bank Name: 
+SBI
+Enter User ID: 
+465
+Enter User Name: 
+Kondepati Koteswara Rao
+Enter Account Number: 
+4336574889
+Enter Account Type: 
+Zero Savings Account
+Enter Balance: 
+120
+Bank name: SBI
+User ID: 465
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Savings Account
+Current Balance: 120.0
+Account Summary: Bank Name: SBI
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Savings Account
+Current Balance: 120.0
+Enter Minimum Balance: 
+1000
+Minimum Balance is not maintained

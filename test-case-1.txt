@@ -1,0 +1,26 @@
+Enter Bank Name: 
+SBI
+Enter User ID: 
+465
+Enter User Name: 
+Kondepati Koteswara Rao
+Enter Account Number: 
+4336574889
+Enter Account Type: 
+Zero Svaings Account
+Enter Balance: 
+1400 
+Bank name: SBI
+User ID: 465
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Svaings Account
+Current Balance: 1400.0
+Account Summary: Bank Name: SBI
+User Name: Kondepati Koteswara Rao
+Account Number: 4336574889
+Account Type: Zero Svaings Account
+Current Balance: 1400.0
+Enter Minimum Balance: 
+1000
+Minimum Balance is maintained
