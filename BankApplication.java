@@ -25,7 +25,7 @@ public class BankApplication {
         b1.displayUserDetails();
         b1.displayAccountDetails();
         String account = b1.createAccountSummary();
-        System.out.println("Account Summary: " + account);
+        System.out.println("Account Summary:\n " + account);
         System.out.println("Enter Minimum Balance: ");
         double minimumBalance = sc.nextDouble();
         boolean MinimumBalance = b1.hasMinumumBalance(minimumBalance);

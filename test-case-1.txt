@@ -1,26 +1,27 @@
 Enter Bank Name: 
-SBI
+sbi
 Enter User ID: 
-465
+123
 Enter User Name: 
-Kondepati Koteswara Rao
+koti
 Enter Account Number: 
-4336574889
+38373703
 Enter Account Type: 
-Zero Svaings Account
+savings
 Enter Balance: 
-1400 
-Bank name: SBI
-User ID: 465
-User Name: Kondepati Koteswara Rao
-Account Number: 4336574889
-Account Type: Zero Svaings Account
-Current Balance: 1400.0
-Account Summary: Bank Name: SBI
-User Name: Kondepati Koteswara Rao
-Account Number: 4336574889
-Account Type: Zero Svaings Account
-Current Balance: 1400.0
-Enter Minimum Balance: 
+1000
+Bank name: sbi
+User ID: 123
+User Name: koti
+Account Number: 38373703
+Account Type: savings
+Current Balance: 1000.0
+Account Summary:
+ Bank Name: sbi
+User Name: koti
+Account Number: 38373703
+Account Type: savings
+Current Balance: 1000.0
+Enter Minimum Balance:
 1000
 Minimum Balance is maintained
